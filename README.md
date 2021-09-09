@@ -1,1 +1,1 @@
-- 👋 Hello, I'm a public account. People with permission in [Project Kaleidoscope](https://github.com/Project-Kaleidoscope) can use me.
+- 👋 Hello, I'm a public account. People with permission in [@Project-Kaleidoscope](https://github.com/Project-Kaleidoscope) can use me.
